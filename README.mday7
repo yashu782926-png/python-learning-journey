@@ -1,0 +1,33 @@
+# Day 07 – Personal Contact Book
+
+## About the Project
+A beginner-friendly, menu-driven Python application for managing personal contacts.
+
+## Features
+- Add new contacts
+- View all contacts
+- Search for contacts
+- Update phone numbers
+- Delete contacts
+- Validate phone numbers
+- Exit the application
+
+## Python Concepts Used
+- Dictionaries
+- While loops
+- If-elif-else statements
+- User input and output
+- String methods (`lower()`, `strip()`)
+- Dictionary methods (`items()`)
+- Input validation
+
+## How to Run
+1. Download or clone this repository.
+2. Open the Python file in VS Code.
+3. Run the program.
+
+## What I Learned
+I learned how to use dictionaries to store contact information and how to build a menu-driven application using loops and conditional statements.
+
+---
+**Part of my Python Learning Journey – Day 07**
